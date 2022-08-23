@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.vdContainer {
+  width: 100%;
+  background-color: #fffdfd;
+}
+.first {
+  display: none;
+}
+.second {
+  display: none;
+}
+
+.third {
+  display: none;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
